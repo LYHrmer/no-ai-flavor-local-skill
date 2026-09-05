@@ -1,6 +1,6 @@
 ---
 name: no-ai-flavor
-description: Use when writing, revising, or reviewing Chinese/English prose that must not read like AI output — social posts, chat replies, articles, marketing copy, docs. Trigger phrases: 去AI味, 有人味, 降低AI感, AI味太重, sound less like AI, remove AI tone, make this sound human, humanize this text.
+description: "Use when writing, revising, or reviewing Chinese/English prose that must not read like AI output — social posts, chat replies, articles, marketing copy, docs. Trigger phrases: 去AI味, 有人味, 降低AI感, AI味太重, sound less like AI, remove AI tone, make this sound human, humanize this text."
 ---
 
 # No AI Flavor（去 AI 味）
